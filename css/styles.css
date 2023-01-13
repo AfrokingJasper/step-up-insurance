@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #fff5f5;
+  background-color: #e7f5ff;
   position: fixed;
   top: 0;
   height: auto;
@@ -76,7 +76,7 @@ svg {
 .link {
   color: white;
   text-decoration: none;
-  background-color: #ff8787;
+  background-color: #1864ab;
   padding: 1rem 2rem;
   border-radius: 0.8rem;
   color: white;
@@ -99,10 +99,10 @@ svg {
 }
 
 .header-navs:hover {
-  color: #ff8787;
+  color: #1864ab;
 }
 .header-navs:active {
-  color: #ff8787;
+  color: #1864ab;
   opacity: 0.6;
 }
 
@@ -110,11 +110,11 @@ svg {
 
 .hero-section {
   height: 100vh;
-  background-color: #fff5f5;
+  background-color: #e7f5ff;
 }
 
 .hero {
-  padding-top: 9rem;
+  padding-top: 19rem;
   max-width: 130rem;
   display: grid;
   gap: 4rem;
@@ -132,9 +132,9 @@ svg {
 }
 
 .hero-link {
-  color: #ff8787;
+  color: #1864ab;
   text-decoration: none;
-  background-color: #ffe3e3;
+  background-color: #a5d8ff;
   padding: 0.7rem 1.4rem;
   border-radius: 3rem;
   display: inline-block;
@@ -142,12 +142,12 @@ svg {
 }
 
 .hero svg {
-  color: #ff8787;
+  color: #1864ab;
 }
 
 .heading-primary {
   font-size: 6.3rem;
-  color: #ff8787;
+  color: #1864ab;
   margin: 0;
 }
 
@@ -156,7 +156,7 @@ svg {
 }
 
 .learn-more {
-  color: #ff8787;
+  color: #1864ab;
   text-decoration: none;
   padding: 1rem 2rem;
   border-radius: 0.8rem;
@@ -164,15 +164,15 @@ svg {
 }
 
 .learn-more:hover {
-  background-color: #ff8787;
-  color: #fff5f5;
+  background-color: #1864ab;
+  color: #e7f5ff;
 }
 .learn-more:active {
   opacity: 0.8;
 }
 
 .learn-more svg {
-  color: #ff8787;
+  color: #1864ab;
 }
 
 .hero-box-2 {
@@ -239,7 +239,7 @@ input {
 .wait-3-link {
   color: white;
   text-decoration: none;
-  background-color: #ff8787;
+  background-color: #1864ab;
   padding: 1rem 10rem;
   border-radius: 0.8rem;
   color: white;
@@ -260,5 +260,8 @@ input {
 }
 
 .wait-3-span {
-  color: #ff8787;
+  color: #1864ab;
+}
+.wait-3-span:hover {
+  text-decoration: underline;
 }
